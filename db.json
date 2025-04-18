@@ -565,7 +565,8 @@
       "gmail": "test1@gmail.com",
       "password": "123456",
       "phone": "09932448355",
-      "gender": 1
+      "gender": 1,
+      "roll": "manager"
     }
   ],
   "orders": [
