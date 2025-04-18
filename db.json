@@ -556,5 +556,16 @@
         "Serve in the pitta with lettuce, parsley, pickles, a sprinkle of sumac, a drizzle of tahini and chilli sauce to taste."
       ]
     }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali Hosseini",
+      "shortName": "Ali-Hosseini-1",
+      "gmail": "test1@gmail.com",
+      "password": "123456",
+      "phone": "09932448355",
+      "gender": 1
+    }
   ]
 }
